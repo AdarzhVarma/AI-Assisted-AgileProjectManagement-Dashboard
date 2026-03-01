@@ -449,8 +449,4 @@ Alert types: blocker urgency, dependency cascade risk, mood signals, GitHub inac
 
 ---
 
-## File
 
-All current functionality lives in a single React component file: `agile-dashboard-v5.jsx`
-
-Total: ~1,400 lines · 11 tabs · 4 developers · 12 tasks · full mock data included
